@@ -1,0 +1,10 @@
+
+얼굴 클로즈업   close up, face portrait
+얼굴 초상화     face portrait
+상반신          upper body
+하반신          lower body, focus on legs
+전신            full body
+뒷태            from behind, back view
+위에서 보는     from above
+밑에서 보는     from below
+옆에서 보는     from side

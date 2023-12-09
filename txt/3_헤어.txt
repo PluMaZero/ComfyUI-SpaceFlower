@@ -1,0 +1,43 @@
+
+여성헤어 길이순-------------------------------
+숏컷	                   Short cut hair
+숏밥	                   Bob hair
+숏 레이어드	                Short layered hair
+미디엄 웨이브	            Medium wavy hair
+미디엄 롱 레이어드	         Medium long layered hair
+롱 웨이브	                Long wavy hair
+롱 레이어드	                Long layered hair
+롱 스트레이트	            Long straight hair
+롱 웨이브 펌	            Long wavy perm hair
+
+앞머리                      bang
+보브컷                      bob hair
+똥머리, 주로 두개 생김       bun hair
+밑단부터 말려 올라가는 머리  curled up hair
+말린 머리                   curly hair
+밑단이 말린 보브컷           curved bob hair
+말린 머리                   drill hair
+뒤로 넘긴 머리              hair slicked back
+옆으로 넘긴 머리            hair slicked side
+긴 머리카락                 long hair
+트윈테일이 낮은 위치서 생성  low twintails
+긴 땋은머리                 long twist hair
+헝클어진                    matted hair
+어깨를 넘는 길이의 머리      medium hair
+덮수룩한 머리               messy hair
+포니테일                    ponytail hair
+풍성한 머리                 rich hair
+샤기컷                     shaggy hair
+짧은 머리카락               short hair
+
+어깨길이의 보브컷           shoulder length bob hair
+직모                       straight hair
+히메컷                     straight hair, hime_cut
+트윈테일                   twintails
+트윈테일 땋은머리           twin Braides
+땋은머리                    twist hair
+양쪽 반묶음 머리            two side up half hair
+정리안된 뻗친               unkempt hair
+볼륨있는 롱헤어             voluminous_long_hair
+웨이브진 머리               wavy hair
+올림 머리                  updo hair

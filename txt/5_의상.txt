@@ -1,0 +1,46 @@
+
+여성상의-------------------------
+티셔츠, T-shirt
+블라우스, Blouse
+셔츠, Shirt
+니트, Sweater
+가디건, Cardigan
+후드티, Hoodie
+튜브탑, Tube top
+슬리브리스, Sleeveless top
+민소매, Tank top
+
+여성하의--------------------------
+스커트, Skirt
+바지, Pants
+레깅스, Leggings
+핫팬츠, Hot pants
+쇼츠, Shorts
+멜빵바지, Suspenders
+슬랙스, Slacks
+데님, Denim
+조거 팬츠, Jogger pants
+
+여성하의 롱스커트-------------------
+미니멀 롱 스커트	, Minimalist long skirt
+플레어 롱 스커트	, Flare long skirt
+A라인 롱 스커트	, A-line long skirt
+하이웨스트 롱 스커트	, High-waisted long skirt
+랩 롱 스커트	, Wrap long skirt
+데님 롱 스커트	, Denim long skirt
+스커트 팬츠	, Skirt pants
+니트 롱 스커트	, Knit long skirt
+플리츠 롱 스커트	, Pleated long skirt
+
+
+
+커스텀-------------------------
+청바지           , jeans
+블랙 스커트      . black skirt
+블루 스커트      , blue skirt
+회색 스커트      , (gray skirt:1.0)
+플에어 스커트    , flared skirt
+흰색티셔츠       , white t-shirt
+운동화           , running shoes
+
+

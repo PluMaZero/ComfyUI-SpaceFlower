@@ -1,0 +1,14 @@
+
+실사 고품질     masterpiece, best quality, photorealistic, dramatic lighting, raw photo,  ultra realistic details, sharp focus, detailed skin
+반실사 고품질   (masterpiece, best quality, detailed beautiful eyes and detailed face, ultra-detailed, 8k wallpaper, elaborate features, raw photo, highres, realistic, photo-realistic:1.4, physically-based rendering)
+반실사 중간품질       
+반실사 저품질   (worst quality:1.4, low quality:1.4, normal quality:1.4), lowres, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, blurry
+
+애니 고품질     (masterpiece, best quality, extremely detailed CG, beautiful detailed eyes, ultra-detailed, intricate details, 8k wallpaper, elaborate features)
+애니 중간품질   
+애니 저품질     (worst quality, normal quality, low quality:1.4), lowres, blurry
+
+단순 베스트     ((best quality)), ((masterpiece)), (detailed)
+실사 와이드     detailed photo, wide angle shot, realistic, 8k uhd, high quality
+섬세묘사        Masterpiece, pearl - like eyes, extremely delicate facial depiction,  medium shot, exaggerated perspective, poster, fashion,  32k UHD
+
